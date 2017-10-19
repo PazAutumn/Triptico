@@ -1,0 +1,56 @@
+body {
+	
+	font-size: serif;
+	text-align: center;
+
+
+}
+
+.column {
+	border-left: 1px solid black;
+		
+}
+
+.one {
+	width: 602px;
+	height: 30px;
+	background-color: #ECE412FF;
+	border: 1px solid black;
+	
+}
+
+.two {
+	width: 200px;
+	height: 500px;
+	border-left: 1px solid black;
+	background-image: url(img/monopoly.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	float: left;
+}
+
+.three {
+	width: 200px;
+	height: 500px;
+	float: left;
+}
+
+.four {
+	width: 200px;
+	height: 500px;
+	border-right: 1px solid black;
+	background-image: url(img/monopoly-moderno.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	float: left;
+}
+
+.five {
+	width: 602px;
+	height: 40px;
+	border:  1px solid black;
+	background-color: #ECE412FF;
+	
+}
